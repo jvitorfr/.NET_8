@@ -12,3 +12,6 @@ App.Domain/bin
 
 App.Broker/obj
 App.Broker/bin
+
+Portifolio_queue/obj
+Portifolio_queue/bin
