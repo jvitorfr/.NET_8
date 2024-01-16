@@ -1,0 +1,14 @@
+App.Repository/obj
+App.Repository/bin
+
+App.Service/obj
+App.Service/bin
+
+App.Domain/obj
+App.Domain/bin
+
+App.Domain/obj
+App.Domain/bin
+
+App.Broker/obj
+App.Broker/bin
